@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953904488797",
+    "firebase_url": "https://souv-77e2c.firebaseio.com",
+    "project_id": "souv-77e2c",
+    "storage_bucket": "souv-77e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953904488797:android:99c85685e4e964434e48b4",
+        "android_client_info": {
+          "package_name": "com.example.spacediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953904488797-10b58s6im49bmmeabfcp64n2213h8v9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LOvC_lTVG-Oe1ibTZ3kv1P-SOAemTrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953904488797-10b58s6im49bmmeabfcp64n2213h8v9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
