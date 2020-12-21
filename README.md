@@ -1,6 +1,7 @@
 # souv
 
 *souv* is a full stack Android app for writing and detecting geolocated notes within a 3 meter radius. For the sentimental, and the scavengers.
+Work-in-progress ⚒
 
 Created during my time as a student at Code Chrysalis 🦋
 
@@ -11,6 +12,8 @@ Background image in app courtesy of Prateek Vatash: [Space Escape 2.0](https://w
 ## Tech stack
 
 Developed with Kotlin, XML, Android Studio, Google Location API, and Firestore.
+
+## Screenshots
 
 ![Home](https://github.com/heysivani/souv/blob/master/screenshots/home.jpg)
 ![Write a note](https://github.com/heysivani/souv/blob/master/screenshots/write.jpg)
