@@ -17,6 +17,10 @@ Developed with Kotlin, XML, Android Studio, Google Location API, and Firestore.
 
 Accuracy of GPS varies widely based on Android device used. Currently, app is optimized for use base on my own device, a HUAWEI P30 Pro running Android version 10+.
 
+## Want to try it, or get involved in development?
+
+[Email me or shoot me a DM on Twitter](https://github.com/heysivani) :) 
+
 ## Screenshots
 
 ![Home](https://github.com/heysivani/souv/blob/master/screenshots/home.jpg)
