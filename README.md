@@ -13,6 +13,10 @@ Background image in app courtesy of Prateek Vatash: [Space Escape 2.0](https://w
 
 Developed with Kotlin, XML, Android Studio, Google Location API, and Firestore.
 
+## Known issues
+
+Accuracy of GPS varies widely based on Android device used. Currently, app is optimized for use base on my own device, a HUAWEI P30 Pro running Android version 10+.
+
 ## Screenshots
 
 ![Home](https://github.com/heysivani/souv/blob/master/screenshots/home.jpg)
